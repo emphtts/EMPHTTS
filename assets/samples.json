@@ -1,0 +1,1180 @@
+{
+  "description": "Final selected listening examples for the demo page.",
+  "seedtts_count": 10,
+  "emphasis_count": 10,
+  "seedtts_selected_candidate_ranks": [
+    12,
+    15,
+    23,
+    27,
+    41,
+    49,
+    65,
+    72,
+    17,
+    19
+  ],
+  "emphasis_selected_candidate_ranks": [
+    1,
+    2,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "seedtts": [
+    {
+      "number": 1,
+      "id": "common_voice_en_23618179-common_voice_en_23618180",
+      "text": "With the movie unfinished, the album was instead promoted in conjunction with the tour.",
+      "rank": {
+        "wer": 0.0,
+        "sim": 0.5453393459320068
+      },
+      "metrics": {
+        "F5TTS-SFT": {
+          "wer": 0.0,
+          "cer": 0.0,
+          "sim": 0.5780684351921082
+        },
+        "F5TTS-DP-SFT": {
+          "wer": 0.0,
+          "cer": 0.0,
+          "sim": 0.5147982835769653
+        },
+        "F5TTS-DP-GRPO": {
+          "wer": 0.0,
+          "cer": 0.0,
+          "sim": 0.5453393459320068
+        }
+      },
+      "audio": [
+        {
+          "label": "Prompt",
+          "src": "assets/audio/CMOS_SMOS_tests/GroundTruth-speaker/common_voice_en_23618179.wav"
+        },
+        {
+          "label": "Ground truth",
+          "src": "assets/audio/CMOS_SMOS_tests/GroundTruth/common_voice_en_23618179-common_voice_en_23618180.wav"
+        },
+        {
+          "label": "CosyVoice3-RL",
+          "src": "assets/audio/CMOS_SMOS_tests/CosyVoice3-RL/common_voice_en_23618179-common_voice_en_23618180.wav"
+        },
+        {
+          "label": "FishAudio-S2",
+          "src": "assets/audio/CMOS_SMOS_tests/FishAudio-S2/common_voice_en_23618179-common_voice_en_23618180.wav"
+        },
+        {
+          "label": "Qwen3-TTS",
+          "src": "assets/audio/CMOS_SMOS_tests/Qwen3-TTS/common_voice_en_23618179-common_voice_en_23618180.wav"
+        },
+        {
+          "label": "VoxCPM2",
+          "src": "assets/audio/CMOS_SMOS_tests/VoxCPM2/common_voice_en_23618179-common_voice_en_23618180.wav"
+        },
+        {
+          "label": "F5TTS-SFT",
+          "src": "assets/audio/CMOS_SMOS_tests/F5TTS/common_voice_en_23618179-common_voice_en_23618180.wav"
+        },
+        {
+          "label": "F5TTS-DP-SFT",
+          "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-SFT/common_voice_en_23618179-common_voice_en_23618180.wav"
+        },
+        {
+          "label": "F5TTS-DP-GRPO",
+          "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-GRPO/common_voice_en_23618179-common_voice_en_23618180.wav"
+        }
+      ],
+      "candidate_rank": 12
+    },
+    {
+      "number": 2,
+      "id": "common_voice_en_22364189-common_voice_en_22364186",
+      "text": "As research continued, the protective effect of fluoride against dental decay was demonstrated.",
+      "rank": {
+        "wer": 0.0,
+        "sim": 0.5250566005706787
+      },
+      "metrics": {
+        "F5TTS-SFT": {
+          "wer": 0.0,
+          "cer": 0.0,
+          "sim": 0.46877098083496094
+        },
+        "F5TTS-DP-SFT": {
+          "wer": 0.0,
+          "cer": 0.0,
+          "sim": 0.4222838282585144
+        },
+        "F5TTS-DP-GRPO": {
+          "wer": 0.0,
+          "cer": 0.0,
+          "sim": 0.5250566005706787
+        }
+      },
+      "audio": [
+        {
+          "label": "Prompt",
+          "src": "assets/audio/CMOS_SMOS_tests/GroundTruth-speaker/common_voice_en_22364189.wav"
+        },
+        {
+          "label": "Ground truth",
+          "src": "assets/audio/CMOS_SMOS_tests/GroundTruth/common_voice_en_22364189-common_voice_en_22364186.wav"
+        },
+        {
+          "label": "CosyVoice3-RL",
+          "src": "assets/audio/CMOS_SMOS_tests/CosyVoice3-RL/common_voice_en_22364189-common_voice_en_22364186.wav"
+        },
+        {
+          "label": "FishAudio-S2",
+          "src": "assets/audio/CMOS_SMOS_tests/FishAudio-S2/common_voice_en_22364189-common_voice_en_22364186.wav"
+        },
+        {
+          "label": "Qwen3-TTS",
+          "src": "assets/audio/CMOS_SMOS_tests/Qwen3-TTS/common_voice_en_22364189-common_voice_en_22364186.wav"
+        },
+        {
+          "label": "VoxCPM2",
+          "src": "assets/audio/CMOS_SMOS_tests/VoxCPM2/common_voice_en_22364189-common_voice_en_22364186.wav"
+        },
+        {
+          "label": "F5TTS-SFT",
+          "src": "assets/audio/CMOS_SMOS_tests/F5TTS/common_voice_en_22364189-common_voice_en_22364186.wav"
+        },
+        {
+          "label": "F5TTS-DP-SFT",
+          "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-SFT/common_voice_en_22364189-common_voice_en_22364186.wav"
+        },
+        {
+          "label": "F5TTS-DP-GRPO",
+          "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-GRPO/common_voice_en_22364189-common_voice_en_22364186.wav"
+        }
+      ],
+      "candidate_rank": 15
+    },
+    {
+      "number": 3,
+      "id": "common_voice_en_621521-common_voice_en_621522",
+      "text": "a lot of patience, but shepherds know all about patience.",
+      "rank": {
+        "wer": 0.0,
+        "sim": 0.5008573532104492
+      },
+      "metrics": {
+        "F5TTS-SFT": {
+          "wer": 0.0,
+          "cer": 0.0,
+          "sim": 0.448356032371521
+        },
+        "F5TTS-DP-SFT": {
+          "wer": 0.0,
+          "cer": 0.0,
+          "sim": 0.5774033069610596
+        },
+        "F5TTS-DP-GRPO": {
+          "wer": 0.0,
+          "cer": 0.0,
+          "sim": 0.5008573532104492
+        }
+      },
+      "audio": [
+        {
+          "label": "Prompt",
+          "src": "assets/audio/CMOS_SMOS_tests/GroundTruth-speaker/common_voice_en_621521.wav"
+        },
+        {
+          "label": "Ground truth",
+          "src": "assets/audio/CMOS_SMOS_tests/GroundTruth/common_voice_en_621521-common_voice_en_621522.wav"
+        },
+        {
+          "label": "CosyVoice3-RL",
+          "src": "assets/audio/CMOS_SMOS_tests/CosyVoice3-RL/common_voice_en_621521-common_voice_en_621522.wav"
+        },
+        {
+          "label": "FishAudio-S2",
+          "src": "assets/audio/CMOS_SMOS_tests/FishAudio-S2/common_voice_en_621521-common_voice_en_621522.wav"
+        },
+        {
+          "label": "Qwen3-TTS",
+          "src": "assets/audio/CMOS_SMOS_tests/Qwen3-TTS/common_voice_en_621521-common_voice_en_621522.wav"
+        },
+        {
+          "label": "VoxCPM2",
+          "src": "assets/audio/CMOS_SMOS_tests/VoxCPM2/common_voice_en_621521-common_voice_en_621522.wav"
+        },
+        {
+          "label": "F5TTS-SFT",
+          "src": "assets/audio/CMOS_SMOS_tests/F5TTS/common_voice_en_621521-common_voice_en_621522.wav"
+        },
+        {
+          "label": "F5TTS-DP-SFT",
+          "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-SFT/common_voice_en_621521-common_voice_en_621522.wav"
+        },
+        {
+          "label": "F5TTS-DP-GRPO",
+          "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-GRPO/common_voice_en_621521-common_voice_en_621522.wav"
+        }
+      ],
+      "candidate_rank": 23
+    },
+    {
+      "number": 4,
+      "id": "common_voice_en_18200641-common_voice_en_18200790",
+      "text": "After I had finished the first batch of papers, I was getting into the workflow.",
+      "rank": {
+        "wer": 0.0,
+        "sim": 0.49097007513046265
+      },
+      "metrics": {
+        "F5TTS-SFT": {
+          "wer": 0.0,
+          "cer": 0.0,
+          "sim": 0.5112934112548828
+        },
+        "F5TTS-DP-SFT": {
+          "wer": 0.0,
+          "cer": 0.0,
+          "sim": 0.5096231698989868
+        },
+        "F5TTS-DP-GRPO": {
+          "wer": 0.0,
+          "cer": 0.0,
+          "sim": 0.49097007513046265
+        }
+      },
+      "audio": [
+        {
+          "label": "Prompt",
+          "src": "assets/audio/CMOS_SMOS_tests/GroundTruth-speaker/common_voice_en_18200641.wav"
+        },
+        {
+          "label": "Ground truth",
+          "src": "assets/audio/CMOS_SMOS_tests/GroundTruth/common_voice_en_18200641-common_voice_en_18200790.wav"
+        },
+        {
+          "label": "CosyVoice3-RL",
+          "src": "assets/audio/CMOS_SMOS_tests/CosyVoice3-RL/common_voice_en_18200641-common_voice_en_18200790.wav"
+        },
+        {
+          "label": "FishAudio-S2",
+          "src": "assets/audio/CMOS_SMOS_tests/FishAudio-S2/common_voice_en_18200641-common_voice_en_18200790.wav"
+        },
+        {
+          "label": "Qwen3-TTS",
+          "src": "assets/audio/CMOS_SMOS_tests/Qwen3-TTS/common_voice_en_18200641-common_voice_en_18200790.wav"
+        },
+        {
+          "label": "VoxCPM2",
+          "src": "assets/audio/CMOS_SMOS_tests/VoxCPM2/common_voice_en_18200641-common_voice_en_18200790.wav"
+        },
+        {
+          "label": "F5TTS-SFT",
+          "src": "assets/audio/CMOS_SMOS_tests/F5TTS/common_voice_en_18200641-common_voice_en_18200790.wav"
+        },
+        {
+          "label": "F5TTS-DP-SFT",
+          "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-SFT/common_voice_en_18200641-common_voice_en_18200790.wav"
+        },
+        {
+          "label": "F5TTS-DP-GRPO",
+          "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-GRPO/common_voice_en_18200641-common_voice_en_18200790.wav"
+        }
+      ],
+      "candidate_rank": 27
+    },
+    {
+      "number": 5,
+      "id": "common_voice_en_18681919-common_voice_en_18681920",
+      "text": "Moreover, because none of the neighbors remember her, they cannot confirm her identity.",
+      "rank": {
+        "wer": 0.0,
+        "sim": 0.4675474762916565
+      },
+      "metrics": {
+        "F5TTS-SFT": {
+          "wer": 0.0,
+          "cer": 0.0,
+          "sim": 0.4379819631576538
+        },
+        "F5TTS-DP-SFT": {
+          "wer": 0.0,
+          "cer": 0.0,
+          "sim": 0.4675474762916565
+        },
+        "F5TTS-DP-GRPO": {
+          "wer": 0.0,
+          "cer": 0.0,
+          "sim": 0.4675474762916565
+        }
+      },
+      "audio": [
+        {
+          "label": "Prompt",
+          "src": "assets/audio/CMOS_SMOS_tests/GroundTruth-speaker/common_voice_en_18681919.wav"
+        },
+        {
+          "label": "Ground truth",
+          "src": "assets/audio/CMOS_SMOS_tests/GroundTruth/common_voice_en_18681919-common_voice_en_18681920.wav"
+        },
+        {
+          "label": "CosyVoice3-RL",
+          "src": "assets/audio/CMOS_SMOS_tests/CosyVoice3-RL/common_voice_en_18681919-common_voice_en_18681920.wav"
+        },
+        {
+          "label": "FishAudio-S2",
+          "src": "assets/audio/CMOS_SMOS_tests/FishAudio-S2/common_voice_en_18681919-common_voice_en_18681920.wav"
+        },
+        {
+          "label": "Qwen3-TTS",
+          "src": "assets/audio/CMOS_SMOS_tests/Qwen3-TTS/common_voice_en_18681919-common_voice_en_18681920.wav"
+        },
+        {
+          "label": "VoxCPM2",
+          "src": "assets/audio/CMOS_SMOS_tests/VoxCPM2/common_voice_en_18681919-common_voice_en_18681920.wav"
+        },
+        {
+          "label": "F5TTS-SFT",
+          "src": "assets/audio/CMOS_SMOS_tests/F5TTS/common_voice_en_18681919-common_voice_en_18681920.wav"
+        },
+        {
+          "label": "F5TTS-DP-SFT",
+          "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-SFT/common_voice_en_18681919-common_voice_en_18681920.wav"
+        },
+        {
+          "label": "F5TTS-DP-GRPO",
+          "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-GRPO/common_voice_en_18681919-common_voice_en_18681920.wav"
+        }
+      ],
+      "candidate_rank": 41
+    },
+    {
+      "number": 6,
+      "id": "common_voice_en_17271507-common_voice_en_17271509",
+      "text": "Regarding your request, I have decided to heed your warnings.",
+      "rank": {
+        "wer": 0.0,
+        "sim": 0.4493669867515564
+      },
+      "metrics": {
+        "F5TTS-SFT": {
+          "wer": 0.0,
+          "cer": 0.0,
+          "sim": 0.40515896677970886
+        },
+        "F5TTS-DP-SFT": {
+          "wer": 0.0,
+          "cer": 0.0,
+          "sim": 0.35260212421417236
+        },
+        "F5TTS-DP-GRPO": {
+          "wer": 0.0,
+          "cer": 0.0,
+          "sim": 0.4493669867515564
+        }
+      },
+      "audio": [
+        {
+          "label": "Prompt",
+          "src": "assets/audio/CMOS_SMOS_tests/GroundTruth-speaker/common_voice_en_17271507.wav"
+        },
+        {
+          "label": "Ground truth",
+          "src": "assets/audio/CMOS_SMOS_tests/GroundTruth/common_voice_en_17271507-common_voice_en_17271509.wav"
+        },
+        {
+          "label": "CosyVoice3-RL",
+          "src": "assets/audio/CMOS_SMOS_tests/CosyVoice3-RL/common_voice_en_17271507-common_voice_en_17271509.wav"
+        },
+        {
+          "label": "FishAudio-S2",
+          "src": "assets/audio/CMOS_SMOS_tests/FishAudio-S2/common_voice_en_17271507-common_voice_en_17271509.wav"
+        },
+        {
+          "label": "Qwen3-TTS",
+          "src": "assets/audio/CMOS_SMOS_tests/Qwen3-TTS/common_voice_en_17271507-common_voice_en_17271509.wav"
+        },
+        {
+          "label": "VoxCPM2",
+          "src": "assets/audio/CMOS_SMOS_tests/VoxCPM2/common_voice_en_17271507-common_voice_en_17271509.wav"
+        },
+        {
+          "label": "F5TTS-SFT",
+          "src": "assets/audio/CMOS_SMOS_tests/F5TTS/common_voice_en_17271507-common_voice_en_17271509.wav"
+        },
+        {
+          "label": "F5TTS-DP-SFT",
+          "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-SFT/common_voice_en_17271507-common_voice_en_17271509.wav"
+        },
+        {
+          "label": "F5TTS-DP-GRPO",
+          "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-GRPO/common_voice_en_17271507-common_voice_en_17271509.wav"
+        }
+      ],
+      "candidate_rank": 49
+    },
+    {
+      "number": 7,
+      "id": "common_voice_en_20872478-common_voice_en_20872479",
+      "text": "Data according to Statistics Iceland, which collects the official statistics for Iceland.",
+      "rank": {
+        "wer": 0.0,
+        "sim": 0.4222191572189331
+      },
+      "metrics": {
+        "F5TTS-SFT": {
+          "wer": 0.0,
+          "cer": 0.0,
+          "sim": 0.3238684833049774
+        },
+        "F5TTS-DP-SFT": {
+          "wer": 0.0,
+          "cer": 0.0,
+          "sim": 0.43625879287719727
+        },
+        "F5TTS-DP-GRPO": {
+          "wer": 0.0,
+          "cer": 0.0,
+          "sim": 0.4222191572189331
+        }
+      },
+      "audio": [
+        {
+          "label": "Prompt",
+          "src": "assets/audio/CMOS_SMOS_tests/GroundTruth-speaker/common_voice_en_20872478.wav"
+        },
+        {
+          "label": "Ground truth",
+          "src": "assets/audio/CMOS_SMOS_tests/GroundTruth/common_voice_en_20872478-common_voice_en_20872479.wav"
+        },
+        {
+          "label": "CosyVoice3-RL",
+          "src": "assets/audio/CMOS_SMOS_tests/CosyVoice3-RL/common_voice_en_20872478-common_voice_en_20872479.wav"
+        },
+        {
+          "label": "FishAudio-S2",
+          "src": "assets/audio/CMOS_SMOS_tests/FishAudio-S2/common_voice_en_20872478-common_voice_en_20872479.wav"
+        },
+        {
+          "label": "Qwen3-TTS",
+          "src": "assets/audio/CMOS_SMOS_tests/Qwen3-TTS/common_voice_en_20872478-common_voice_en_20872479.wav"
+        },
+        {
+          "label": "VoxCPM2",
+          "src": "assets/audio/CMOS_SMOS_tests/VoxCPM2/common_voice_en_20872478-common_voice_en_20872479.wav"
+        },
+        {
+          "label": "F5TTS-SFT",
+          "src": "assets/audio/CMOS_SMOS_tests/F5TTS/common_voice_en_20872478-common_voice_en_20872479.wav"
+        },
+        {
+          "label": "F5TTS-DP-SFT",
+          "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-SFT/common_voice_en_20872478-common_voice_en_20872479.wav"
+        },
+        {
+          "label": "F5TTS-DP-GRPO",
+          "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-GRPO/common_voice_en_20872478-common_voice_en_20872479.wav"
+        }
+      ],
+      "candidate_rank": 65
+    },
+    {
+      "number": 8,
+      "id": "common_voice_en_1416089-common_voice_en_1416093",
+      "text": "I do not like sushi, so I did not really enjoy the meal.",
+      "rank": {
+        "wer": 0.0,
+        "sim": 0.4028860032558441
+      },
+      "metrics": {
+        "F5TTS-SFT": {
+          "wer": 0.0,
+          "cer": 0.0,
+          "sim": 0.4045359790325165
+        },
+        "F5TTS-DP-SFT": {
+          "wer": 0.0,
+          "cer": 0.0,
+          "sim": 0.3855154812335968
+        },
+        "F5TTS-DP-GRPO": {
+          "wer": 0.0,
+          "cer": 0.0,
+          "sim": 0.4028860032558441
+        }
+      },
+      "audio": [
+        {
+          "label": "Prompt",
+          "src": "assets/audio/CMOS_SMOS_tests/GroundTruth-speaker/common_voice_en_1416089.wav"
+        },
+        {
+          "label": "Ground truth",
+          "src": "assets/audio/CMOS_SMOS_tests/GroundTruth/common_voice_en_1416089-common_voice_en_1416093.wav"
+        },
+        {
+          "label": "CosyVoice3-RL",
+          "src": "assets/audio/CMOS_SMOS_tests/CosyVoice3-RL/common_voice_en_1416089-common_voice_en_1416093.wav"
+        },
+        {
+          "label": "FishAudio-S2",
+          "src": "assets/audio/CMOS_SMOS_tests/FishAudio-S2/common_voice_en_1416089-common_voice_en_1416093.wav"
+        },
+        {
+          "label": "Qwen3-TTS",
+          "src": "assets/audio/CMOS_SMOS_tests/Qwen3-TTS/common_voice_en_1416089-common_voice_en_1416093.wav"
+        },
+        {
+          "label": "VoxCPM2",
+          "src": "assets/audio/CMOS_SMOS_tests/VoxCPM2/common_voice_en_1416089-common_voice_en_1416093.wav"
+        },
+        {
+          "label": "F5TTS-SFT",
+          "src": "assets/audio/CMOS_SMOS_tests/F5TTS/common_voice_en_1416089-common_voice_en_1416093.wav"
+        },
+        {
+          "label": "F5TTS-DP-SFT",
+          "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-SFT/common_voice_en_1416089-common_voice_en_1416093.wav"
+        },
+        {
+          "label": "F5TTS-DP-GRPO",
+          "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-GRPO/common_voice_en_1416089-common_voice_en_1416093.wav"
+        }
+      ],
+      "candidate_rank": 72
+    },
+    {
+      "number": 9,
+      "id": "common_voice_en_22925816-common_voice_en_22925817",
+      "text": "The heart of the campus has a number of historic buildings.",
+      "rank": {
+        "wer": 0.0,
+        "sim": 0.5216864347457886
+      },
+      "metrics": {
+        "F5TTS-SFT": {
+          "wer": 0.0,
+          "cer": 0.0,
+          "sim": 0.38994187116622925
+        },
+        "F5TTS-DP-SFT": {
+          "wer": 0.0,
+          "cer": 0.0,
+          "sim": 0.4717419147491455
+        },
+        "F5TTS-DP-GRPO": {
+          "wer": 0.0,
+          "cer": 0.0,
+          "sim": 0.5216864347457886
+        }
+      },
+      "audio": [
+        {
+          "label": "Prompt",
+          "src": "assets/audio/CMOS_SMOS_tests/GroundTruth-speaker/common_voice_en_22925816.wav"
+        },
+        {
+          "label": "Ground truth",
+          "src": "assets/audio/CMOS_SMOS_tests/GroundTruth/common_voice_en_22925816-common_voice_en_22925817.wav"
+        },
+        {
+          "label": "CosyVoice3-RL",
+          "src": "assets/audio/CMOS_SMOS_tests/CosyVoice3-RL/common_voice_en_22925816-common_voice_en_22925817.wav"
+        },
+        {
+          "label": "FishAudio-S2",
+          "src": "assets/audio/CMOS_SMOS_tests/FishAudio-S2/common_voice_en_22925816-common_voice_en_22925817.wav"
+        },
+        {
+          "label": "Qwen3-TTS",
+          "src": "assets/audio/CMOS_SMOS_tests/Qwen3-TTS/common_voice_en_22925816-common_voice_en_22925817.wav"
+        },
+        {
+          "label": "VoxCPM2",
+          "src": "assets/audio/CMOS_SMOS_tests/VoxCPM2/common_voice_en_22925816-common_voice_en_22925817.wav"
+        },
+        {
+          "label": "F5TTS-SFT",
+          "src": "assets/audio/CMOS_SMOS_tests/F5TTS/common_voice_en_22925816-common_voice_en_22925817.wav"
+        },
+        {
+          "label": "F5TTS-DP-SFT",
+          "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-SFT/common_voice_en_22925816-common_voice_en_22925817.wav"
+        },
+        {
+          "label": "F5TTS-DP-GRPO",
+          "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-GRPO/common_voice_en_22925816-common_voice_en_22925817.wav"
+        }
+      ],
+      "candidate_rank": 17
+    },
+    {
+      "number": 10,
+      "id": "common_voice_en_22461617-common_voice_en_22461638",
+      "text": "Secondly, there is a difference between a major tone and a minor tone.",
+      "rank": {
+        "wer": 0.0,
+        "sim": 0.5095674991607666
+      },
+      "metrics": {
+        "F5TTS-SFT": {
+          "wer": 0.0,
+          "cer": 0.0,
+          "sim": 0.47507739067077637
+        },
+        "F5TTS-DP-SFT": {
+          "wer": 0.0,
+          "cer": 0.0,
+          "sim": 0.522824764251709
+        },
+        "F5TTS-DP-GRPO": {
+          "wer": 0.0,
+          "cer": 0.0,
+          "sim": 0.5095674991607666
+        }
+      },
+      "audio": [
+        {
+          "label": "Prompt",
+          "src": "assets/audio/CMOS_SMOS_tests/GroundTruth-speaker/common_voice_en_22461617.wav"
+        },
+        {
+          "label": "Ground truth",
+          "src": "assets/audio/CMOS_SMOS_tests/GroundTruth/common_voice_en_22461617-common_voice_en_22461638.wav"
+        },
+        {
+          "label": "CosyVoice3-RL",
+          "src": "assets/audio/CMOS_SMOS_tests/CosyVoice3-RL/common_voice_en_22461617-common_voice_en_22461638.wav"
+        },
+        {
+          "label": "FishAudio-S2",
+          "src": "assets/audio/CMOS_SMOS_tests/FishAudio-S2/common_voice_en_22461617-common_voice_en_22461638.wav"
+        },
+        {
+          "label": "Qwen3-TTS",
+          "src": "assets/audio/CMOS_SMOS_tests/Qwen3-TTS/common_voice_en_22461617-common_voice_en_22461638.wav"
+        },
+        {
+          "label": "VoxCPM2",
+          "src": "assets/audio/CMOS_SMOS_tests/VoxCPM2/common_voice_en_22461617-common_voice_en_22461638.wav"
+        },
+        {
+          "label": "F5TTS-SFT",
+          "src": "assets/audio/CMOS_SMOS_tests/F5TTS/common_voice_en_22461617-common_voice_en_22461638.wav"
+        },
+        {
+          "label": "F5TTS-DP-SFT",
+          "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-SFT/common_voice_en_22461617-common_voice_en_22461638.wav"
+        },
+        {
+          "label": "F5TTS-DP-GRPO",
+          "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-GRPO/common_voice_en_22461617-common_voice_en_22461638.wav"
+        }
+      ]
+    }
+  ],
+  "emphasis": [
+    {
+      "number": 1,
+      "id": "emph_eval_00051",
+      "text": "But I think that'll make us *more* attractive.",
+      "rank": {
+        "proposed_votes": 3,
+        "tie_votes": 0,
+        "baseline_votes": 0,
+        "total_votes": 3
+      },
+      "metrics": {},
+      "audio": [
+        {
+          "label": "Ground truth",
+          "src": "assets/audio/emphasis_preference_test/GroundTruth/emph_eval_00051.wav"
+        },
+        {
+          "label": "CosyVoice3-RL",
+          "src": "assets/audio/emphasis_preference_test/CosyVoice3-RL/emph_eval_00051.wav"
+        },
+        {
+          "label": "FishAudio-S2",
+          "src": "assets/audio/emphasis_preference_test/FishAudio-S2/emph_eval_00051.wav"
+        },
+        {
+          "label": "Qwen3-TTS",
+          "src": "assets/audio/emphasis_preference_test/Qwen3-TTS/emph_eval_00051.wav"
+        },
+        {
+          "label": "VoxCPM2",
+          "src": "assets/audio/emphasis_preference_test/VoxCPM2/emph_eval_00051.wav"
+        },
+        {
+          "label": "F5TTS-SFT",
+          "src": "assets/audio/emphasis_preference_test/F5TTS/emph_eval_00051.wav"
+        },
+        {
+          "label": "F5TTS-DP-SFT",
+          "src": "assets/audio/emphasis_preference_test/F5TTS-DP-SFT/emph_eval_00051.wav"
+        },
+        {
+          "label": "F5TTS-DP-GRPO",
+          "src": "assets/audio/emphasis_preference_test/F5TTS-DP-GRPO/emph_eval_00051.wav"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "id": "emph_eval_00042",
+      "text": "Bananas are washed thoroughly *then* graded.",
+      "rank": {
+        "proposed_votes": 3,
+        "tie_votes": 0,
+        "baseline_votes": 0,
+        "total_votes": 3
+      },
+      "metrics": {},
+      "audio": [
+        {
+          "label": "Ground truth",
+          "src": "assets/audio/emphasis_preference_test/GroundTruth/emph_eval_00042.wav"
+        },
+        {
+          "label": "CosyVoice3-RL",
+          "src": "assets/audio/emphasis_preference_test/CosyVoice3-RL/emph_eval_00042.wav"
+        },
+        {
+          "label": "FishAudio-S2",
+          "src": "assets/audio/emphasis_preference_test/FishAudio-S2/emph_eval_00042.wav"
+        },
+        {
+          "label": "Qwen3-TTS",
+          "src": "assets/audio/emphasis_preference_test/Qwen3-TTS/emph_eval_00042.wav"
+        },
+        {
+          "label": "VoxCPM2",
+          "src": "assets/audio/emphasis_preference_test/VoxCPM2/emph_eval_00042.wav"
+        },
+        {
+          "label": "F5TTS-SFT",
+          "src": "assets/audio/emphasis_preference_test/F5TTS/emph_eval_00042.wav"
+        },
+        {
+          "label": "F5TTS-DP-SFT",
+          "src": "assets/audio/emphasis_preference_test/F5TTS-DP-SFT/emph_eval_00042.wav"
+        },
+        {
+          "label": "F5TTS-DP-GRPO",
+          "src": "assets/audio/emphasis_preference_test/F5TTS-DP-GRPO/emph_eval_00042.wav"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "id": "emph_eval_00175",
+      "text": "From a *marketing* standpoint, you *can* understand their concern.",
+      "rank": {
+        "proposed_votes": 3,
+        "tie_votes": 0,
+        "baseline_votes": 0,
+        "total_votes": 3
+      },
+      "metrics": {},
+      "audio": [
+        {
+          "label": "Ground truth",
+          "src": "assets/audio/emphasis_preference_test/GroundTruth/emph_eval_00175.wav"
+        },
+        {
+          "label": "CosyVoice3-RL",
+          "src": "assets/audio/emphasis_preference_test/CosyVoice3-RL/emph_eval_00175.wav"
+        },
+        {
+          "label": "FishAudio-S2",
+          "src": "assets/audio/emphasis_preference_test/FishAudio-S2/emph_eval_00175.wav"
+        },
+        {
+          "label": "Qwen3-TTS",
+          "src": "assets/audio/emphasis_preference_test/Qwen3-TTS/emph_eval_00175.wav"
+        },
+        {
+          "label": "VoxCPM2",
+          "src": "assets/audio/emphasis_preference_test/VoxCPM2/emph_eval_00175.wav"
+        },
+        {
+          "label": "F5TTS-SFT",
+          "src": "assets/audio/emphasis_preference_test/F5TTS/emph_eval_00175.wav"
+        },
+        {
+          "label": "F5TTS-DP-SFT",
+          "src": "assets/audio/emphasis_preference_test/F5TTS-DP-SFT/emph_eval_00175.wav"
+        },
+        {
+          "label": "F5TTS-DP-GRPO",
+          "src": "assets/audio/emphasis_preference_test/F5TTS-DP-GRPO/emph_eval_00175.wav"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "id": "emph_eval_00017",
+      "text": "And so *we* went straight into, like, feeding baby lambs.",
+      "rank": {
+        "proposed_votes": 2,
+        "tie_votes": 0,
+        "baseline_votes": 0,
+        "total_votes": 2
+      },
+      "metrics": {},
+      "audio": [
+        {
+          "label": "Ground truth",
+          "src": "assets/audio/emphasis_preference_test/GroundTruth/emph_eval_00017.wav"
+        },
+        {
+          "label": "CosyVoice3-RL",
+          "src": "assets/audio/emphasis_preference_test/CosyVoice3-RL/emph_eval_00017.wav"
+        },
+        {
+          "label": "FishAudio-S2",
+          "src": "assets/audio/emphasis_preference_test/FishAudio-S2/emph_eval_00017.wav"
+        },
+        {
+          "label": "Qwen3-TTS",
+          "src": "assets/audio/emphasis_preference_test/Qwen3-TTS/emph_eval_00017.wav"
+        },
+        {
+          "label": "VoxCPM2",
+          "src": "assets/audio/emphasis_preference_test/VoxCPM2/emph_eval_00017.wav"
+        },
+        {
+          "label": "F5TTS-SFT",
+          "src": "assets/audio/emphasis_preference_test/F5TTS/emph_eval_00017.wav"
+        },
+        {
+          "label": "F5TTS-DP-SFT",
+          "src": "assets/audio/emphasis_preference_test/F5TTS-DP-SFT/emph_eval_00017.wav"
+        },
+        {
+          "label": "F5TTS-DP-GRPO",
+          "src": "assets/audio/emphasis_preference_test/F5TTS-DP-GRPO/emph_eval_00017.wav"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "id": "emph_eval_00041",
+      "text": "*Bananas* are washed thoroughly then graded.",
+      "rank": {
+        "proposed_votes": 2,
+        "tie_votes": 1,
+        "baseline_votes": 0,
+        "total_votes": 3
+      },
+      "metrics": {
+        "F5TTS-SFT": {
+          "accuracy": 1.0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "F5TTS-DP-SFT": {
+          "accuracy": 0.6666666666666666,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "F5TTS-DP-GRPO": {
+          "accuracy": 1.0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        }
+      },
+      "audio": [
+        {
+          "label": "Ground truth",
+          "src": "assets/audio/emphasis_preference_test/GroundTruth/emph_eval_00041.wav"
+        },
+        {
+          "label": "CosyVoice3-RL",
+          "src": "assets/audio/emphasis_preference_test/CosyVoice3-RL/emph_eval_00041.wav"
+        },
+        {
+          "label": "FishAudio-S2",
+          "src": "assets/audio/emphasis_preference_test/FishAudio-S2/emph_eval_00041.wav"
+        },
+        {
+          "label": "Qwen3-TTS",
+          "src": "assets/audio/emphasis_preference_test/Qwen3-TTS/emph_eval_00041.wav"
+        },
+        {
+          "label": "VoxCPM2",
+          "src": "assets/audio/emphasis_preference_test/VoxCPM2/emph_eval_00041.wav"
+        },
+        {
+          "label": "F5TTS-SFT",
+          "src": "assets/audio/emphasis_preference_test/F5TTS/emph_eval_00041.wav"
+        },
+        {
+          "label": "F5TTS-DP-SFT",
+          "src": "assets/audio/emphasis_preference_test/F5TTS-DP-SFT/emph_eval_00041.wav"
+        },
+        {
+          "label": "F5TTS-DP-GRPO",
+          "src": "assets/audio/emphasis_preference_test/F5TTS-DP-GRPO/emph_eval_00041.wav"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "id": "emph_eval_00302",
+      "text": "Immediately *re*- stopper the container.",
+      "rank": {
+        "proposed_votes": 2,
+        "tie_votes": 0,
+        "baseline_votes": 0,
+        "total_votes": 2
+      },
+      "metrics": {
+        "F5TTS-SFT": {
+          "accuracy": 1.0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "F5TTS-DP-SFT": {
+          "accuracy": 1.0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "F5TTS-DP-GRPO": {
+          "accuracy": 1.0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        }
+      },
+      "audio": [
+        {
+          "label": "Ground truth",
+          "src": "assets/audio/emphasis_preference_test/GroundTruth/emph_eval_00302.wav"
+        },
+        {
+          "label": "CosyVoice3-RL",
+          "src": "assets/audio/emphasis_preference_test/CosyVoice3-RL/emph_eval_00302.wav"
+        },
+        {
+          "label": "FishAudio-S2",
+          "src": "assets/audio/emphasis_preference_test/FishAudio-S2/emph_eval_00302.wav"
+        },
+        {
+          "label": "Qwen3-TTS",
+          "src": "assets/audio/emphasis_preference_test/Qwen3-TTS/emph_eval_00302.wav"
+        },
+        {
+          "label": "VoxCPM2",
+          "src": "assets/audio/emphasis_preference_test/VoxCPM2/emph_eval_00302.wav"
+        },
+        {
+          "label": "F5TTS-SFT",
+          "src": "assets/audio/emphasis_preference_test/F5TTS/emph_eval_00302.wav"
+        },
+        {
+          "label": "F5TTS-DP-SFT",
+          "src": "assets/audio/emphasis_preference_test/F5TTS-DP-SFT/emph_eval_00302.wav"
+        },
+        {
+          "label": "F5TTS-DP-GRPO",
+          "src": "assets/audio/emphasis_preference_test/F5TTS-DP-GRPO/emph_eval_00302.wav"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "id": "emph_eval_00350",
+      "text": "it's based on the original tv show, but it's a *full* length movie.",
+      "rank": {
+        "proposed_votes": 2,
+        "tie_votes": 0,
+        "baseline_votes": 0,
+        "total_votes": 2
+      },
+      "metrics": {},
+      "audio": [
+        {
+          "label": "Ground truth",
+          "src": "assets/audio/emphasis_preference_test/GroundTruth/emph_eval_00350.wav"
+        },
+        {
+          "label": "CosyVoice3-RL",
+          "src": "assets/audio/emphasis_preference_test/CosyVoice3-RL/emph_eval_00350.wav"
+        },
+        {
+          "label": "FishAudio-S2",
+          "src": "assets/audio/emphasis_preference_test/FishAudio-S2/emph_eval_00350.wav"
+        },
+        {
+          "label": "Qwen3-TTS",
+          "src": "assets/audio/emphasis_preference_test/Qwen3-TTS/emph_eval_00350.wav"
+        },
+        {
+          "label": "VoxCPM2",
+          "src": "assets/audio/emphasis_preference_test/VoxCPM2/emph_eval_00350.wav"
+        },
+        {
+          "label": "F5TTS-SFT",
+          "src": "assets/audio/emphasis_preference_test/F5TTS/emph_eval_00350.wav"
+        },
+        {
+          "label": "F5TTS-DP-SFT",
+          "src": "assets/audio/emphasis_preference_test/F5TTS-DP-SFT/emph_eval_00350.wav"
+        },
+        {
+          "label": "F5TTS-DP-GRPO",
+          "src": "assets/audio/emphasis_preference_test/F5TTS-DP-GRPO/emph_eval_00350.wav"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "id": "emph_eval_00641",
+      "text": "There was only *one* problem, the teacher was *still* there!",
+      "rank": {
+        "proposed_votes": 2,
+        "tie_votes": 0,
+        "baseline_votes": 0,
+        "total_votes": 2
+      },
+      "metrics": {},
+      "audio": [
+        {
+          "label": "Ground truth",
+          "src": "assets/audio/emphasis_preference_test/GroundTruth/emph_eval_00641.wav"
+        },
+        {
+          "label": "CosyVoice3-RL",
+          "src": "assets/audio/emphasis_preference_test/CosyVoice3-RL/emph_eval_00641.wav"
+        },
+        {
+          "label": "FishAudio-S2",
+          "src": "assets/audio/emphasis_preference_test/FishAudio-S2/emph_eval_00641.wav"
+        },
+        {
+          "label": "Qwen3-TTS",
+          "src": "assets/audio/emphasis_preference_test/Qwen3-TTS/emph_eval_00641.wav"
+        },
+        {
+          "label": "VoxCPM2",
+          "src": "assets/audio/emphasis_preference_test/VoxCPM2/emph_eval_00641.wav"
+        },
+        {
+          "label": "F5TTS-SFT",
+          "src": "assets/audio/emphasis_preference_test/F5TTS/emph_eval_00641.wav"
+        },
+        {
+          "label": "F5TTS-DP-SFT",
+          "src": "assets/audio/emphasis_preference_test/F5TTS-DP-SFT/emph_eval_00641.wav"
+        },
+        {
+          "label": "F5TTS-DP-GRPO",
+          "src": "assets/audio/emphasis_preference_test/F5TTS-DP-GRPO/emph_eval_00641.wav"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "id": "emph_eval_00517",
+      "text": "Stable *and* sensible, that sounds just like us.",
+      "rank": {
+        "proposed_votes": 2,
+        "tie_votes": 0,
+        "baseline_votes": 0,
+        "total_votes": 2
+      },
+      "metrics": {},
+      "audio": [
+        {
+          "label": "Ground truth",
+          "src": "assets/audio/emphasis_preference_test/GroundTruth/emph_eval_00517.wav"
+        },
+        {
+          "label": "CosyVoice3-RL",
+          "src": "assets/audio/emphasis_preference_test/CosyVoice3-RL/emph_eval_00517.wav"
+        },
+        {
+          "label": "FishAudio-S2",
+          "src": "assets/audio/emphasis_preference_test/FishAudio-S2/emph_eval_00517.wav"
+        },
+        {
+          "label": "Qwen3-TTS",
+          "src": "assets/audio/emphasis_preference_test/Qwen3-TTS/emph_eval_00517.wav"
+        },
+        {
+          "label": "VoxCPM2",
+          "src": "assets/audio/emphasis_preference_test/VoxCPM2/emph_eval_00517.wav"
+        },
+        {
+          "label": "F5TTS-SFT",
+          "src": "assets/audio/emphasis_preference_test/F5TTS/emph_eval_00517.wav"
+        },
+        {
+          "label": "F5TTS-DP-SFT",
+          "src": "assets/audio/emphasis_preference_test/F5TTS-DP-SFT/emph_eval_00517.wav"
+        },
+        {
+          "label": "F5TTS-DP-GRPO",
+          "src": "assets/audio/emphasis_preference_test/F5TTS-DP-GRPO/emph_eval_00517.wav"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "id": "emph_eval_00559",
+      "text": "the film's overall tone mixes *comedy* and drama.",
+      "rank": {
+        "proposed_votes": 2,
+        "tie_votes": 0,
+        "baseline_votes": 0,
+        "total_votes": 2
+      },
+      "metrics": {},
+      "audio": [
+        {
+          "label": "Ground truth",
+          "src": "assets/audio/emphasis_preference_test/GroundTruth/emph_eval_00559.wav"
+        },
+        {
+          "label": "CosyVoice3-RL",
+          "src": "assets/audio/emphasis_preference_test/CosyVoice3-RL/emph_eval_00559.wav"
+        },
+        {
+          "label": "FishAudio-S2",
+          "src": "assets/audio/emphasis_preference_test/FishAudio-S2/emph_eval_00559.wav"
+        },
+        {
+          "label": "Qwen3-TTS",
+          "src": "assets/audio/emphasis_preference_test/Qwen3-TTS/emph_eval_00559.wav"
+        },
+        {
+          "label": "VoxCPM2",
+          "src": "assets/audio/emphasis_preference_test/VoxCPM2/emph_eval_00559.wav"
+        },
+        {
+          "label": "F5TTS-SFT",
+          "src": "assets/audio/emphasis_preference_test/F5TTS/emph_eval_00559.wav"
+        },
+        {
+          "label": "F5TTS-DP-SFT",
+          "src": "assets/audio/emphasis_preference_test/F5TTS-DP-SFT/emph_eval_00559.wav"
+        },
+        {
+          "label": "F5TTS-DP-GRPO",
+          "src": "assets/audio/emphasis_preference_test/F5TTS-DP-GRPO/emph_eval_00559.wav"
+        }
+      ]
+    }
+  ]
+}

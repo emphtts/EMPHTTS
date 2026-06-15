@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Audio Demo</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav" aria-label="Main navigation">
+        <a href="#home">Home</a>
+        <a href="#emphasis">Emphasis</a>
+        <a href="#seedtts">SeedTTS</a>
+      </nav>
+      <div id="home" class="hero">
+        <h1>Audio Demo</h1>
+        <p class="lede">
+          Listening examples for SeedTTS and emphasis-control evaluation.
+        </p>
+      </div>
+    </header>
+
+    <main>
+      <section class="intro" aria-label="Overview">
+        <p>
+          Each sample shows ground-truth speech, baseline systems, and our systems.
+        </p>
+      </section>
+
+      <section id="emphasis" class="sample-section">
+        <div class="section-heading">
+          <p class="eyebrow">10 samples</p>
+          <h2>Emphasis Listening Examples</h2>
+        </div>
+        <div id="emphasis-samples" class="sample-list" aria-live="polite"></div>
+      </section>
+
+      <section id="seedtts" class="sample-section">
+        <div class="section-heading">
+          <p class="eyebrow">10 samples</p>
+          <h2>SeedTTS Listening Examples</h2>
+        </div>
+        <div id="seedtts-samples" class="sample-list" aria-live="polite"></div>
+      </section>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>
