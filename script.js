@@ -14,15 +14,45 @@ function emphasisMarkup(text) {
   return escapeHtml(text).replace(/\*([^*]+)\*/g, "<strong>$1</strong>");
 }
 
+function modelLabelMarkup(label) {
+  const value = String(label).trim();
+
+  if (
+    value === "F5TTS-SFT" ||
+    value === "𝓜<sub>TTS-SFT</sub>" ||
+    value === "𝓜ₜₜₛ₋ₛꜰₜ" ||
+    value.includes("TTS-SFT")
+  ) {
+    return `<span class="model-label"><span class="mathcal-m">𝓜</span><sub>TTS-SFT</sub></span>`;
+  }
+
+  if (
+    value === "F5TTS-DP-SFT" ||
+    value === "𝓜<sub>TTS-DP-SFT</sub>" ||
+    value === "𝓜ₜₜₛ₋ᴅₚ₋ₛꜰₜ" ||
+    value.includes("TTS-DP-SFT")
+  ) {
+    return `<span class="model-label"><span class="mathcal-m">𝓜</span><sub>TTS-DP-SFT</sub></span>`;
+  }
+
+  if (value === "F5TTS-DP-GRPO") {
+    return "EmphTTS";
+  }
+
+  return escapeHtml(value);
+}
+
 function audioPlayer(audio) {
   return `<audio controls preload="none" src="${escapeHtml(audio.src)}"></audio>`;
 }
 
 function sampleBlock(sample, kind) {
   const text = kind === "emphasis" ? emphasisMarkup(sample.text) : escapeHtml(sample.text);
+
   const headers = sample.audio
-    .map((audio) => `<th scope="col">${escapeHtml(audio.label)}</th>`)
+    .map((audio) => `<th scope="col">${modelLabelMarkup(audio.label)}</th>`)
     .join("");
+
   const players = sample.audio
     .map((audio) => `<td>${audioPlayer(audio)}</td>`)
     .join("");
@@ -53,10 +83,13 @@ function renderSamples(container, samples, kind) {
 
 async function loadSamples() {
   const response = await fetch("assets/samples.json");
+
   if (!response.ok) {
     throw new Error(`Could not load assets/samples.json: ${response.status}`);
   }
+
   const data = await response.json();
+
   renderSamples(seedContainer, data.seedtts, "seedtts");
   renderSamples(emphasisContainer, data.emphasis, "emphasis");
 }
