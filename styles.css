@@ -192,6 +192,29 @@ h2 {
   font-weight: 700;
 }
 
+.model-label {
+  display: inline-block;
+  white-space: nowrap;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 700;
+}
+
+.mathcal-m {
+  font-family: "Cambria Math", "STIX Two Math", "Latin Modern Math", "Times New Roman", serif;
+  font-size: 1.45em;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 0;
+}
+
+.model-label sub {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 0.86em;
+  font-weight: 700;
+  line-height: 0;
+  vertical-align: -0.24em;
+}
+
 audio {
   display: block;
   width: 100%;
