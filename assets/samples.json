@@ -36,17 +36,17 @@
         "sim": 0.5453393459320068
       },
       "metrics": {
-        "F5TTS-SFT": {
+        "𝓜<sub>TTS-SFT</sub>": {
           "wer": 0.0,
           "cer": 0.0,
           "sim": 0.5780684351921082
         },
-        "F5TTS-DP-SFT": {
+        "𝓜<sub>TTS-DP-SFT</sub>": {
           "wer": 0.0,
           "cer": 0.0,
           "sim": 0.5147982835769653
         },
-        "F5TTS-DP-GRPO": {
+        "EmphTTS": {
           "wer": 0.0,
           "cer": 0.0,
           "sim": 0.5453393459320068
@@ -78,15 +78,15 @@
           "src": "assets/audio/CMOS_SMOS_tests/VoxCPM2/common_voice_en_23618179-common_voice_en_23618180.wav"
         },
         {
-          "label": "F5TTS-SFT",
+          "label": "𝓜<sub>TTS-SFT</sub>",
           "src": "assets/audio/CMOS_SMOS_tests/F5TTS/common_voice_en_23618179-common_voice_en_23618180.wav"
         },
         {
-          "label": "F5TTS-DP-SFT",
+          "label": "𝓜<sub>TTS-DP-SFT</sub>",
           "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-SFT/common_voice_en_23618179-common_voice_en_23618180.wav"
         },
         {
-          "label": "F5TTS-DP-GRPO",
+          "label": "EmphTTS",
           "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-GRPO/common_voice_en_23618179-common_voice_en_23618180.wav"
         }
       ],
@@ -101,17 +101,17 @@
         "sim": 0.5250566005706787
       },
       "metrics": {
-        "F5TTS-SFT": {
+        "𝓜<sub>TTS-SFT</sub>": {
           "wer": 0.0,
           "cer": 0.0,
           "sim": 0.46877098083496094
         },
-        "F5TTS-DP-SFT": {
+        "𝓜<sub>TTS-DP-SFT</sub>": {
           "wer": 0.0,
           "cer": 0.0,
           "sim": 0.4222838282585144
         },
-        "F5TTS-DP-GRPO": {
+        "EmphTTS": {
           "wer": 0.0,
           "cer": 0.0,
           "sim": 0.5250566005706787
@@ -143,15 +143,15 @@
           "src": "assets/audio/CMOS_SMOS_tests/VoxCPM2/common_voice_en_22364189-common_voice_en_22364186.wav"
         },
         {
-          "label": "F5TTS-SFT",
+          "label": "𝓜<sub>TTS-SFT</sub>",
           "src": "assets/audio/CMOS_SMOS_tests/F5TTS/common_voice_en_22364189-common_voice_en_22364186.wav"
         },
         {
-          "label": "F5TTS-DP-SFT",
+          "label": "𝓜<sub>TTS-DP-SFT</sub>",
           "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-SFT/common_voice_en_22364189-common_voice_en_22364186.wav"
         },
         {
-          "label": "F5TTS-DP-GRPO",
+          "label": "EmphTTS",
           "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-GRPO/common_voice_en_22364189-common_voice_en_22364186.wav"
         }
       ],
@@ -166,17 +166,17 @@
         "sim": 0.5008573532104492
       },
       "metrics": {
-        "F5TTS-SFT": {
+        "𝓜<sub>TTS-SFT</sub>": {
           "wer": 0.0,
           "cer": 0.0,
           "sim": 0.448356032371521
         },
-        "F5TTS-DP-SFT": {
+        "𝓜<sub>TTS-DP-SFT</sub>": {
           "wer": 0.0,
           "cer": 0.0,
           "sim": 0.5774033069610596
         },
-        "F5TTS-DP-GRPO": {
+        "EmphTTS": {
           "wer": 0.0,
           "cer": 0.0,
           "sim": 0.5008573532104492
@@ -208,15 +208,15 @@
           "src": "assets/audio/CMOS_SMOS_tests/VoxCPM2/common_voice_en_621521-common_voice_en_621522.wav"
         },
         {
-          "label": "F5TTS-SFT",
+          "label": "𝓜<sub>TTS-SFT</sub>",
           "src": "assets/audio/CMOS_SMOS_tests/F5TTS/common_voice_en_621521-common_voice_en_621522.wav"
         },
         {
-          "label": "F5TTS-DP-SFT",
+          "label": "𝓜<sub>TTS-DP-SFT</sub>",
           "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-SFT/common_voice_en_621521-common_voice_en_621522.wav"
         },
         {
-          "label": "F5TTS-DP-GRPO",
+          "label": "EmphTTS",
           "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-GRPO/common_voice_en_621521-common_voice_en_621522.wav"
         }
       ],
@@ -231,17 +231,17 @@
         "sim": 0.49097007513046265
       },
       "metrics": {
-        "F5TTS-SFT": {
+        "𝓜<sub>TTS-SFT</sub>": {
           "wer": 0.0,
           "cer": 0.0,
           "sim": 0.5112934112548828
         },
-        "F5TTS-DP-SFT": {
+        "𝓜<sub>TTS-DP-SFT</sub>": {
           "wer": 0.0,
           "cer": 0.0,
           "sim": 0.5096231698989868
         },
-        "F5TTS-DP-GRPO": {
+        "EmphTTS": {
           "wer": 0.0,
           "cer": 0.0,
           "sim": 0.49097007513046265
@@ -273,15 +273,15 @@
           "src": "assets/audio/CMOS_SMOS_tests/VoxCPM2/common_voice_en_18200641-common_voice_en_18200790.wav"
         },
         {
-          "label": "F5TTS-SFT",
+          "label": "𝓜<sub>TTS-SFT</sub>",
           "src": "assets/audio/CMOS_SMOS_tests/F5TTS/common_voice_en_18200641-common_voice_en_18200790.wav"
         },
         {
-          "label": "F5TTS-DP-SFT",
+          "label": "𝓜<sub>TTS-DP-SFT</sub>",
           "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-SFT/common_voice_en_18200641-common_voice_en_18200790.wav"
         },
         {
-          "label": "F5TTS-DP-GRPO",
+          "label": "EmphTTS",
           "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-GRPO/common_voice_en_18200641-common_voice_en_18200790.wav"
         }
       ],
@@ -296,17 +296,17 @@
         "sim": 0.4675474762916565
       },
       "metrics": {
-        "F5TTS-SFT": {
+        "𝓜<sub>TTS-SFT</sub>": {
           "wer": 0.0,
           "cer": 0.0,
           "sim": 0.4379819631576538
         },
-        "F5TTS-DP-SFT": {
+        "𝓜<sub>TTS-DP-SFT</sub>": {
           "wer": 0.0,
           "cer": 0.0,
           "sim": 0.4675474762916565
         },
-        "F5TTS-DP-GRPO": {
+        "EmphTTS": {
           "wer": 0.0,
           "cer": 0.0,
           "sim": 0.4675474762916565
@@ -338,15 +338,15 @@
           "src": "assets/audio/CMOS_SMOS_tests/VoxCPM2/common_voice_en_18681919-common_voice_en_18681920.wav"
         },
         {
-          "label": "F5TTS-SFT",
+          "label": "𝓜<sub>TTS-SFT</sub>",
           "src": "assets/audio/CMOS_SMOS_tests/F5TTS/common_voice_en_18681919-common_voice_en_18681920.wav"
         },
         {
-          "label": "F5TTS-DP-SFT",
+          "label": "𝓜<sub>TTS-DP-SFT</sub>",
           "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-SFT/common_voice_en_18681919-common_voice_en_18681920.wav"
         },
         {
-          "label": "F5TTS-DP-GRPO",
+          "label": "EmphTTS",
           "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-GRPO/common_voice_en_18681919-common_voice_en_18681920.wav"
         }
       ],
@@ -361,17 +361,17 @@
         "sim": 0.4493669867515564
       },
       "metrics": {
-        "F5TTS-SFT": {
+        "𝓜<sub>TTS-SFT</sub>": {
           "wer": 0.0,
           "cer": 0.0,
           "sim": 0.40515896677970886
         },
-        "F5TTS-DP-SFT": {
+        "𝓜<sub>TTS-DP-SFT</sub>": {
           "wer": 0.0,
           "cer": 0.0,
           "sim": 0.35260212421417236
         },
-        "F5TTS-DP-GRPO": {
+        "EmphTTS": {
           "wer": 0.0,
           "cer": 0.0,
           "sim": 0.4493669867515564
@@ -403,15 +403,15 @@
           "src": "assets/audio/CMOS_SMOS_tests/VoxCPM2/common_voice_en_17271507-common_voice_en_17271509.wav"
         },
         {
-          "label": "F5TTS-SFT",
+          "label": "𝓜<sub>TTS-SFT</sub>",
           "src": "assets/audio/CMOS_SMOS_tests/F5TTS/common_voice_en_17271507-common_voice_en_17271509.wav"
         },
         {
-          "label": "F5TTS-DP-SFT",
+          "label": "𝓜<sub>TTS-DP-SFT</sub>",
           "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-SFT/common_voice_en_17271507-common_voice_en_17271509.wav"
         },
         {
-          "label": "F5TTS-DP-GRPO",
+          "label": "EmphTTS",
           "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-GRPO/common_voice_en_17271507-common_voice_en_17271509.wav"
         }
       ],
@@ -426,17 +426,17 @@
         "sim": 0.4222191572189331
       },
       "metrics": {
-        "F5TTS-SFT": {
+        "𝓜<sub>TTS-SFT</sub>": {
           "wer": 0.0,
           "cer": 0.0,
           "sim": 0.3238684833049774
         },
-        "F5TTS-DP-SFT": {
+        "𝓜<sub>TTS-DP-SFT</sub>": {
           "wer": 0.0,
           "cer": 0.0,
           "sim": 0.43625879287719727
         },
-        "F5TTS-DP-GRPO": {
+        "EmphTTS": {
           "wer": 0.0,
           "cer": 0.0,
           "sim": 0.4222191572189331
@@ -468,15 +468,15 @@
           "src": "assets/audio/CMOS_SMOS_tests/VoxCPM2/common_voice_en_20872478-common_voice_en_20872479.wav"
         },
         {
-          "label": "F5TTS-SFT",
+          "label": "𝓜<sub>TTS-SFT</sub>",
           "src": "assets/audio/CMOS_SMOS_tests/F5TTS/common_voice_en_20872478-common_voice_en_20872479.wav"
         },
         {
-          "label": "F5TTS-DP-SFT",
+          "label": "𝓜<sub>TTS-DP-SFT</sub>",
           "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-SFT/common_voice_en_20872478-common_voice_en_20872479.wav"
         },
         {
-          "label": "F5TTS-DP-GRPO",
+          "label": "EmphTTS",
           "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-GRPO/common_voice_en_20872478-common_voice_en_20872479.wav"
         }
       ],
@@ -491,17 +491,17 @@
         "sim": 0.4028860032558441
       },
       "metrics": {
-        "F5TTS-SFT": {
+        "𝓜<sub>TTS-SFT</sub>": {
           "wer": 0.0,
           "cer": 0.0,
           "sim": 0.4045359790325165
         },
-        "F5TTS-DP-SFT": {
+        "𝓜<sub>TTS-DP-SFT</sub>": {
           "wer": 0.0,
           "cer": 0.0,
           "sim": 0.3855154812335968
         },
-        "F5TTS-DP-GRPO": {
+        "EmphTTS": {
           "wer": 0.0,
           "cer": 0.0,
           "sim": 0.4028860032558441
@@ -533,15 +533,15 @@
           "src": "assets/audio/CMOS_SMOS_tests/VoxCPM2/common_voice_en_1416089-common_voice_en_1416093.wav"
         },
         {
-          "label": "F5TTS-SFT",
+          "label": "𝓜<sub>TTS-SFT</sub>",
           "src": "assets/audio/CMOS_SMOS_tests/F5TTS/common_voice_en_1416089-common_voice_en_1416093.wav"
         },
         {
-          "label": "F5TTS-DP-SFT",
+          "label": "𝓜<sub>TTS-DP-SFT</sub>",
           "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-SFT/common_voice_en_1416089-common_voice_en_1416093.wav"
         },
         {
-          "label": "F5TTS-DP-GRPO",
+          "label": "EmphTTS",
           "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-GRPO/common_voice_en_1416089-common_voice_en_1416093.wav"
         }
       ],
@@ -556,17 +556,17 @@
         "sim": 0.5216864347457886
       },
       "metrics": {
-        "F5TTS-SFT": {
+        "𝓜<sub>TTS-SFT</sub>": {
           "wer": 0.0,
           "cer": 0.0,
           "sim": 0.38994187116622925
         },
-        "F5TTS-DP-SFT": {
+        "𝓜<sub>TTS-DP-SFT</sub>": {
           "wer": 0.0,
           "cer": 0.0,
           "sim": 0.4717419147491455
         },
-        "F5TTS-DP-GRPO": {
+        "EmphTTS": {
           "wer": 0.0,
           "cer": 0.0,
           "sim": 0.5216864347457886
@@ -598,15 +598,15 @@
           "src": "assets/audio/CMOS_SMOS_tests/VoxCPM2/common_voice_en_22925816-common_voice_en_22925817.wav"
         },
         {
-          "label": "F5TTS-SFT",
+          "label": "𝓜<sub>TTS-SFT</sub>",
           "src": "assets/audio/CMOS_SMOS_tests/F5TTS/common_voice_en_22925816-common_voice_en_22925817.wav"
         },
         {
-          "label": "F5TTS-DP-SFT",
+          "label": "𝓜<sub>TTS-DP-SFT</sub>",
           "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-SFT/common_voice_en_22925816-common_voice_en_22925817.wav"
         },
         {
-          "label": "F5TTS-DP-GRPO",
+          "label": "EmphTTS",
           "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-GRPO/common_voice_en_22925816-common_voice_en_22925817.wav"
         }
       ],
@@ -621,17 +621,17 @@
         "sim": 0.5095674991607666
       },
       "metrics": {
-        "F5TTS-SFT": {
+        "𝓜<sub>TTS-SFT</sub>": {
           "wer": 0.0,
           "cer": 0.0,
           "sim": 0.47507739067077637
         },
-        "F5TTS-DP-SFT": {
+        "𝓜<sub>TTS-DP-SFT</sub>": {
           "wer": 0.0,
           "cer": 0.0,
           "sim": 0.522824764251709
         },
-        "F5TTS-DP-GRPO": {
+        "EmphTTS": {
           "wer": 0.0,
           "cer": 0.0,
           "sim": 0.5095674991607666
@@ -663,15 +663,15 @@
           "src": "assets/audio/CMOS_SMOS_tests/VoxCPM2/common_voice_en_22461617-common_voice_en_22461638.wav"
         },
         {
-          "label": "F5TTS-SFT",
+          "label": "𝓜<sub>TTS-SFT</sub>",
           "src": "assets/audio/CMOS_SMOS_tests/F5TTS/common_voice_en_22461617-common_voice_en_22461638.wav"
         },
         {
-          "label": "F5TTS-DP-SFT",
+          "label": "𝓜<sub>TTS-DP-SFT</sub>",
           "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-SFT/common_voice_en_22461617-common_voice_en_22461638.wav"
         },
         {
-          "label": "F5TTS-DP-GRPO",
+          "label": "EmphTTS",
           "src": "assets/audio/CMOS_SMOS_tests/F5TTS-DP-GRPO/common_voice_en_22461617-common_voice_en_22461638.wav"
         }
       ]
@@ -711,15 +711,15 @@
           "src": "assets/audio/emphasis_preference_test/VoxCPM2/emph_eval_00051.wav"
         },
         {
-          "label": "F5TTS-SFT",
+          "label": "𝓜<sub>TTS-SFT</sub>",
           "src": "assets/audio/emphasis_preference_test/F5TTS/emph_eval_00051.wav"
         },
         {
-          "label": "F5TTS-DP-SFT",
+          "label": "𝓜<sub>TTS-DP-SFT</sub>",
           "src": "assets/audio/emphasis_preference_test/F5TTS-DP-SFT/emph_eval_00051.wav"
         },
         {
-          "label": "F5TTS-DP-GRPO",
+          "label": "EmphTTS",
           "src": "assets/audio/emphasis_preference_test/F5TTS-DP-GRPO/emph_eval_00051.wav"
         }
       ]
@@ -757,15 +757,15 @@
           "src": "assets/audio/emphasis_preference_test/VoxCPM2/emph_eval_00042.wav"
         },
         {
-          "label": "F5TTS-SFT",
+          "label": "𝓜<sub>TTS-SFT</sub>",
           "src": "assets/audio/emphasis_preference_test/F5TTS/emph_eval_00042.wav"
         },
         {
-          "label": "F5TTS-DP-SFT",
+          "label": "𝓜<sub>TTS-DP-SFT</sub>",
           "src": "assets/audio/emphasis_preference_test/F5TTS-DP-SFT/emph_eval_00042.wav"
         },
         {
-          "label": "F5TTS-DP-GRPO",
+          "label": "EmphTTS",
           "src": "assets/audio/emphasis_preference_test/F5TTS-DP-GRPO/emph_eval_00042.wav"
         }
       ]
@@ -803,15 +803,15 @@
           "src": "assets/audio/emphasis_preference_test/VoxCPM2/emph_eval_00175.wav"
         },
         {
-          "label": "F5TTS-SFT",
+          "label": "𝓜<sub>TTS-SFT</sub>",
           "src": "assets/audio/emphasis_preference_test/F5TTS/emph_eval_00175.wav"
         },
         {
-          "label": "F5TTS-DP-SFT",
+          "label": "𝓜<sub>TTS-DP-SFT</sub>",
           "src": "assets/audio/emphasis_preference_test/F5TTS-DP-SFT/emph_eval_00175.wav"
         },
         {
-          "label": "F5TTS-DP-GRPO",
+          "label": "EmphTTS",
           "src": "assets/audio/emphasis_preference_test/F5TTS-DP-GRPO/emph_eval_00175.wav"
         }
       ]
@@ -849,15 +849,15 @@
           "src": "assets/audio/emphasis_preference_test/VoxCPM2/emph_eval_00017.wav"
         },
         {
-          "label": "F5TTS-SFT",
+          "label": "𝓜<sub>TTS-SFT</sub>",
           "src": "assets/audio/emphasis_preference_test/F5TTS/emph_eval_00017.wav"
         },
         {
-          "label": "F5TTS-DP-SFT",
+          "label": "𝓜<sub>TTS-DP-SFT</sub>",
           "src": "assets/audio/emphasis_preference_test/F5TTS-DP-SFT/emph_eval_00017.wav"
         },
         {
-          "label": "F5TTS-DP-GRPO",
+          "label": "EmphTTS",
           "src": "assets/audio/emphasis_preference_test/F5TTS-DP-GRPO/emph_eval_00017.wav"
         }
       ]
@@ -873,19 +873,19 @@
         "total_votes": 3
       },
       "metrics": {
-        "F5TTS-SFT": {
+        "𝓜<sub>TTS-SFT</sub>": {
           "accuracy": 1.0,
           "precision": 1.0,
           "recall": 1.0,
           "f1": 1.0
         },
-        "F5TTS-DP-SFT": {
+        "𝓜<sub>TTS-DP-SFT</sub>": {
           "accuracy": 0.6666666666666666,
           "precision": 0.0,
           "recall": 0.0,
           "f1": 0.0
         },
-        "F5TTS-DP-GRPO": {
+        "EmphTTS": {
           "accuracy": 1.0,
           "precision": 1.0,
           "recall": 1.0,
@@ -914,15 +914,15 @@
           "src": "assets/audio/emphasis_preference_test/VoxCPM2/emph_eval_00041.wav"
         },
         {
-          "label": "F5TTS-SFT",
+          "label": "𝓜<sub>TTS-SFT</sub>",
           "src": "assets/audio/emphasis_preference_test/F5TTS/emph_eval_00041.wav"
         },
         {
-          "label": "F5TTS-DP-SFT",
+          "label": "𝓜<sub>TTS-DP-SFT</sub>",
           "src": "assets/audio/emphasis_preference_test/F5TTS-DP-SFT/emph_eval_00041.wav"
         },
         {
-          "label": "F5TTS-DP-GRPO",
+          "label": "EmphTTS",
           "src": "assets/audio/emphasis_preference_test/F5TTS-DP-GRPO/emph_eval_00041.wav"
         }
       ]
@@ -938,19 +938,19 @@
         "total_votes": 2
       },
       "metrics": {
-        "F5TTS-SFT": {
+        "𝓜<sub>TTS-SFT</sub>": {
           "accuracy": 1.0,
           "precision": 1.0,
           "recall": 1.0,
           "f1": 1.0
         },
-        "F5TTS-DP-SFT": {
+        "𝓜<sub>TTS-DP-SFT</sub>": {
           "accuracy": 1.0,
           "precision": 1.0,
           "recall": 1.0,
           "f1": 1.0
         },
-        "F5TTS-DP-GRPO": {
+        "EmphTTS": {
           "accuracy": 1.0,
           "precision": 1.0,
           "recall": 1.0,
@@ -979,15 +979,15 @@
           "src": "assets/audio/emphasis_preference_test/VoxCPM2/emph_eval_00302.wav"
         },
         {
-          "label": "F5TTS-SFT",
+          "label": "𝓜<sub>TTS-SFT</sub>",
           "src": "assets/audio/emphasis_preference_test/F5TTS/emph_eval_00302.wav"
         },
         {
-          "label": "F5TTS-DP-SFT",
+          "label": "𝓜<sub>TTS-DP-SFT</sub>",
           "src": "assets/audio/emphasis_preference_test/F5TTS-DP-SFT/emph_eval_00302.wav"
         },
         {
-          "label": "F5TTS-DP-GRPO",
+          "label": "EmphTTS",
           "src": "assets/audio/emphasis_preference_test/F5TTS-DP-GRPO/emph_eval_00302.wav"
         }
       ]
@@ -1025,15 +1025,15 @@
           "src": "assets/audio/emphasis_preference_test/VoxCPM2/emph_eval_00350.wav"
         },
         {
-          "label": "F5TTS-SFT",
+          "label": "𝓜<sub>TTS-SFT</sub>",
           "src": "assets/audio/emphasis_preference_test/F5TTS/emph_eval_00350.wav"
         },
         {
-          "label": "F5TTS-DP-SFT",
+          "label": "𝓜<sub>TTS-DP-SFT</sub>",
           "src": "assets/audio/emphasis_preference_test/F5TTS-DP-SFT/emph_eval_00350.wav"
         },
         {
-          "label": "F5TTS-DP-GRPO",
+          "label": "EmphTTS",
           "src": "assets/audio/emphasis_preference_test/F5TTS-DP-GRPO/emph_eval_00350.wav"
         }
       ]
@@ -1071,15 +1071,15 @@
           "src": "assets/audio/emphasis_preference_test/VoxCPM2/emph_eval_00641.wav"
         },
         {
-          "label": "F5TTS-SFT",
+          "label": "𝓜<sub>TTS-SFT</sub>",
           "src": "assets/audio/emphasis_preference_test/F5TTS/emph_eval_00641.wav"
         },
         {
-          "label": "F5TTS-DP-SFT",
+          "label": "𝓜<sub>TTS-DP-SFT</sub>",
           "src": "assets/audio/emphasis_preference_test/F5TTS-DP-SFT/emph_eval_00641.wav"
         },
         {
-          "label": "F5TTS-DP-GRPO",
+          "label": "EmphTTS",
           "src": "assets/audio/emphasis_preference_test/F5TTS-DP-GRPO/emph_eval_00641.wav"
         }
       ]
@@ -1117,15 +1117,15 @@
           "src": "assets/audio/emphasis_preference_test/VoxCPM2/emph_eval_00517.wav"
         },
         {
-          "label": "F5TTS-SFT",
+          "label": "𝓜<sub>TTS-SFT</sub>",
           "src": "assets/audio/emphasis_preference_test/F5TTS/emph_eval_00517.wav"
         },
         {
-          "label": "F5TTS-DP-SFT",
+          "label": "𝓜<sub>TTS-DP-SFT</sub>",
           "src": "assets/audio/emphasis_preference_test/F5TTS-DP-SFT/emph_eval_00517.wav"
         },
         {
-          "label": "F5TTS-DP-GRPO",
+          "label": "EmphTTS",
           "src": "assets/audio/emphasis_preference_test/F5TTS-DP-GRPO/emph_eval_00517.wav"
         }
       ]
@@ -1163,15 +1163,15 @@
           "src": "assets/audio/emphasis_preference_test/VoxCPM2/emph_eval_00559.wav"
         },
         {
-          "label": "F5TTS-SFT",
+          "label": "𝓜<sub>TTS-SFT</sub>",
           "src": "assets/audio/emphasis_preference_test/F5TTS/emph_eval_00559.wav"
         },
         {
-          "label": "F5TTS-DP-SFT",
+          "label": "𝓜<sub>TTS-DP-SFT</sub>",
           "src": "assets/audio/emphasis_preference_test/F5TTS-DP-SFT/emph_eval_00559.wav"
         },
         {
-          "label": "F5TTS-DP-GRPO",
+          "label": "EmphTTS",
           "src": "assets/audio/emphasis_preference_test/F5TTS-DP-GRPO/emph_eval_00559.wav"
         }
       ]
