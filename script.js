@@ -14,6 +14,15 @@ function emphasisMarkup(text) {
   return escapeHtml(text).replace(/\*([^*]+)\*/g, "<strong>$1</strong>");
 }
 
+function modelLabel(label) {
+  const paperModels = {
+    "M_TTS-SFT": "<span class=\"model-math\">ℳ<sub>TTS-SFT</sub></span>",
+    "M_TTS-SFT (s=0.9)": "<span class=\"model-math\">ℳ<sub>TTS-SFT</sub></span> <span class=\"model-setting\">(s = 0.9)</span>",
+    "M_TTS-DP-SFT": "<span class=\"model-math\">ℳ<sub>TTS-DP-SFT</sub></span>",
+  };
+  return paperModels[label] ?? escapeHtml(label);
+}
+
 function audioPlayer(audio) {
   return `<audio controls preload="none" src="${escapeHtml(audio.src)}"></audio>`;
 }
@@ -21,7 +30,7 @@ function audioPlayer(audio) {
 function sampleBlock(sample, kind) {
   const text = kind === "tinystress" ? emphasisMarkup(sample.text) : escapeHtml(sample.text);
   const headers = sample.audio
-    .map((audio) => `<th scope="col">${escapeHtml(audio.label)}</th>`)
+    .map((audio) => `<th scope="col">${modelLabel(audio.label)}</th>`)
     .join("");
   const players = sample.audio
     .map((audio) => `<td>${audioPlayer(audio)}</td>`)
