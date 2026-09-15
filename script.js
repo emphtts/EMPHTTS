@@ -16,11 +16,12 @@ function emphasisMarkup(text) {
 
 function modelLabel(label) {
   const paperModels = {
-    "M_TTS-SFT": "<span class=\"model-math\">ℳ<sub>TTS-SFT</sub></span>",
-    "M_TTS-SFT (s=0.9)": "<span class=\"model-math\">ℳ<sub>TTS-SFT</sub></span> <span class=\"model-setting\">(s = 0.9)</span>",
-    "M_TTS-DP-SFT": "<span class=\"model-math\">ℳ<sub>TTS-DP-SFT</sub></span>",
+    "M_TTS-SFT": ["\\mathcal{M}_{\\mathrm{TTS-SFT}}", "ℳ₍TTS-SFT₎"],
+    "M_TTS-SFT (s=0.9)": ["\\mathcal{M}_{\\mathrm{TTS-SFT}}\\;(s = 0.9)", "ℳ₍TTS-SFT₎ (s = 0.9)"],
+    "M_TTS-DP-SFT": ["\\mathcal{M}_{\\mathrm{TTS-DP-SFT}}", "ℳ₍TTS-DP-SFT₎"],
   };
-  return paperModels[label] ?? escapeHtml(label);
+  const model = paperModels[label];
+  return model ? `<span class=\"paper-math\" data-tex=\"${model[0]}\">${model[1]}</span>` : escapeHtml(label);
 }
 
 function audioPlayer(audio) {
@@ -58,6 +59,11 @@ function sampleBlock(sample, kind) {
 
 function renderSamples(container, samples, kind) {
   container.innerHTML = samples.map((sample) => sampleBlock(sample, kind)).join("");
+  if (window.katex) {
+    container.querySelectorAll(".paper-math").forEach((element) => {
+      window.katex.render(element.dataset.tex, element, { throwOnError: false });
+    });
+  }
 }
 
 async function loadSamples() {
